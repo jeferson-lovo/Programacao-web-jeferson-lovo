@@ -1,4 +1,3 @@
-# trabalho 2 programaçao  Web
 # Jeferson oliveira lovo
 
 ## Demonstração
